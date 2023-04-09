@@ -23,10 +23,26 @@ Resources:
 
 [Code](https://huggingface.co/datasets/codeparrot/codecomplex) consists of 4,200 Java codes submitted to programming competitions by human programmers and their complexity labels annotated by a group of algorithm experts.
 
-### ByLanguages
+## ByLanguages
 
-#### Python
+### Python
 
 [github-jupyter-parsed](https://huggingface.co/codeparrot) with markdown and code pairs. We provide the preprocessing script in preprocessing.py. The data is deduplicated and consists of 451662 examples. 
 
+### Java
+
+
+#### semeru/Text-Code-concode-Java
+
+https://huggingface.co/datasets/semeru/Text-Code-concode-Java
+
+> Generate source code of class member functions in Java, given natural language description and class environment.
+> Class environment is the programmatic context provided by the rest of the class, including other member variables and
+> member functions in class. Models are evaluated by exact match and BLEU.
+
+#### semeru/completeformer_java_data
+
+https://huggingface.co/datasets/semeru/completeformer_java_data
+
+> AutoCompleteFormer
 
