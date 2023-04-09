@@ -1,4 +1,9 @@
-# awesome-datasets-for-ai-lora
+# Awesome AI Datasets for engineer efficiency
+
+Resources:
+
+- https://datasetsearch.research.google.com/
+- https://huggingface.co/
 
 ## Programming
 
