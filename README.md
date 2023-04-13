@@ -5,6 +5,10 @@ Resources:
 - https://datasetsearch.research.google.com/
 - https://huggingface.co/
 
+Pre-Trainning:
+
+- [ CodeGen (CodeGen-Mono 16B) ](https://huggingface.co/Salesforce/codegen-16B-mono)
+
 ## Programming
 
 ### Common
