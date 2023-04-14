@@ -8,6 +8,7 @@ Resources:
 Pre-Trainning:
 
 - [ CodeGen (CodeGen-Mono 16B) ](https://huggingface.co/Salesforce/codegen-16B-mono)
+- [CodeGeeX](https://github.com/THUDM/CodeGeeX) An Open Multilingual Code Generation Model 
 
 AI Server
 
