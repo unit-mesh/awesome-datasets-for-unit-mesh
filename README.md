@@ -9,6 +9,10 @@ Pre-Trainning:
 
 - [ CodeGen (CodeGen-Mono 16B) ](https://huggingface.co/Salesforce/codegen-16B-mono)
 
+AI Server
+
+- [FauxPilot](https://github.com/fauxpilot/fauxpilot) s is an attempt to build a locally hosted alternative to GitHub Copilot. It uses the SalesForce CodeGen models inside of NVIDIA's Triton Inference Server with the FasterTransformer backend.
+
 ## Programming
 
 ### Common
