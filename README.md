@@ -7,8 +7,9 @@ Resources:
 
 Pre-Trainning:
 
-- [ CodeGen (CodeGen-Mono 16B) ](https://huggingface.co/Salesforce/codegen-16B-mono)
+- [CodeGen (CodeGen-Mono 16B) ](https://huggingface.co/Salesforce/codegen-16B-mono)
 - [CodeGeeX](https://github.com/THUDM/CodeGeeX) An Open Multilingual Code Generation Model 
+- [StarCodes](https://huggingface.co/blog/starcoder) are 15.5B parameter models trained on 80+ programming languages from The Stack (v1.2), with opt-out requests excluded. 
 
 AI Server
 
