@@ -11,6 +11,10 @@ Pre-Trainning:
 - [CodeGeeX](https://github.com/THUDM/CodeGeeX) An Open Multilingual Code Generation Model 
 - [StarCodes](https://huggingface.co/blog/starcoder) are 15.5B parameter models trained on 80+ programming languages from The Stack (v1.2), with opt-out requests excluded. 
 
+Code Smells:
+
+- [QScored](https://zenodo.org/record/7484812) A Large Dataset of Code Smells and Quality Metrics
+
 AI Server
 
 - [FauxPilot](https://github.com/fauxpilot/fauxpilot) s is an attempt to build a locally hosted alternative to GitHub Copilot. It uses the SalesForce CodeGen models inside of NVIDIA's Triton Inference Server with the FasterTransformer backend.
