@@ -15,6 +15,13 @@ Code Smells:
 
 - [QScored](https://zenodo.org/record/7484812) A Large Dataset of Code Smells and Quality Metrics
 
+Code Review:
+
+- [CodeBERT](https://github.com/microsoft/CodeBERT) 
+    - CodeReviewer is a model pre-trained with code change and code review data to support code review tasks.
+    - GraphCodeBERT is a pre-trained model for programming language that considers the inherent structure of code i.e. data flow, which is a multi-programming-lingual model pre-trained on NL-PL pairs in 6 programming languages (Python, Java, JavaScript, PHP, Ruby, Go).
+    - CodeBERT is a pre-trained model for programming language, which is a multi-programming-lingual model pre-trained on NL-PL pairs in 6 programming languages (Python, Java, JavaScript, PHP, Ruby, Go).
+
 AI Server
 
 - [FauxPilot](https://github.com/fauxpilot/fauxpilot) s is an attempt to build a locally hosted alternative to GitHub Copilot. It uses the SalesForce CodeGen models inside of NVIDIA's Triton Inference Server with the FasterTransformer backend.
